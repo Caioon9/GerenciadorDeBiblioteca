@@ -1,6 +1,6 @@
 # GerenciadorDeBiblioteca
 
-📚 Desafio da Semana: Sistema de Biblioteca
+📚 Desafio Sistema de Biblioteca
 Gerencie obras, clientes, empréstimos e reservas num sistema de terminal.
 
 Cada obra (livro ou revista) deve ter:
@@ -46,11 +46,3 @@ Salvar e carregar dados em arquivo .txt ou .json
 Relatório com a obra mais emprestada do sistema
 
 💻 Vale qualquer linguagem: Python, JS, Java, C, C++, C#, Go, Rust, PHP, Ruby, Kotlin, Swift...
-
-🎓 Bônus de Engenharia de Software só pra quem é GOAT mesmo🐐🔥:
-
-ESW 01 — Análise do Problema: descreva o problema, stakeholders e objetivos antes de codificar
-ESW 02 — Regras de Negócio (RN): liste e numere todas as regras (ex: RN01, RN02...)
-ESW 03 — Especificação de Requisitos (ERS): separe Requisitos Funcionais (RF) e Não Funcionais (RNF)
-ESW 04 — Casos de Uso (ECU): documente com ator, pré-condição e fluxo principal (ex: UC01 — Emprestar Obra)
-ESW 05 — Protótipo de Telas: fluxo do sistema antes de implementar (papel, Figma, qualquer ferramenta)
